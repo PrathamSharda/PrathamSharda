@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Sharda</h1> <h3 align="center">A person trying to be better than yesterday.</h3> <p align="center"> <em> Passionate about crafting clean, efficient code and solving real-world problems. I thrive on learning new technologies, contributing to open-source projects, and building applications that make a difference. When I'm not coding, you'll find me exploring the latest in web development, tinkering with databases, or collaborating with fellow developers. Always eager to take on new challenges and turn ideas into reality!  </em> </p>
 Connect with me:
-<p align="left"> <a href="https://linkedin.com/in/your_linkedin_profile" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/pratham-sharda-5749011aa/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a> </p>
 GitHub Stats:
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PrathamSharda&show_icons=true&theme=dark" alt="Pratham's GitHub Stats" /> </p>
 Pull Request Activity:
