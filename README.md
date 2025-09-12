@@ -1,72 +1,163 @@
-<h1 align="center">Hi 👋, I'm Pratham Sharda</h1>
-<h3 align="center">💻 A Developer on a Journey to be Better than Yesterday 🚀</h3>
+# Hi there! I'm Pratham Sharda
 
-<p align="center">
-  <em>
-    Passionate about crafting clean, efficient code and solving real-world problems.  
-    I thrive on learning new technologies, contributing to open-source projects, and building applications that make a difference.  
-    When I'm not coding, you'll find me exploring the latest in web development, tinkering with databases, or collaborating with fellow developers.  
-    Always eager to take on new challenges and turn ideas into reality!
-  </em>
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/pratham-sharda-5749011aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:prathamsharda8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/PrathamSharda" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+</div>
 
----
+## About Me
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamSharda&show_icons=true&theme=tokyonight" alt="Pratham's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamSharda&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
+```javascript
+const pratham = {
+    name: "Pratham Sharda",
+    role: "Full Stack Developer",
+    location: "India",
+    currentFocus: ["System Design", "Cloud Architecture", "Open Source"],
+    languages: ["JavaScript", "C++", "SQL"],
+    technologies: {
+        frontend: ["React", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express"],
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Git", "Linux", "VS Code"]
+    },
+    motto: "Better than yesterday, every single day"
+};
+```
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
 
-## 📈 Contribution & Pull Request Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamSharda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamSharda&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
+## Tech Stack & Tools
 
+<div align="center">
 
----
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 Current Focus
-- 📚 Mastering **DSA & System Design**
-- 🌐 Building **full-stack web applications**
-- ☁️ Learning **Cloud & DevOps tools**
-- 🤝 Contributing to **open-source projects**
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrathamSharda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
+</div>
 
+## GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathamSharda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamSharda&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=PrathamSharda&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" width="100%"/>
+</div>
+
+## Contribution Activity
+
+<div align="center">
+  
+[![Pratham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathamSharda&theme=github-compact&hide_border=true&bg_color=0D1117&area=true&point=58A6FF&line=58A6FF&color=C9D1D9&days=365&custom_title=Yearly%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
+
+## LeetCode Stats
+
+<div align="center">
+
+### 📊 Overall Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/prathamsharda?theme=dark&font=Baloo%202&ext=heatmap)
+
+</div>
+
+<div align="center">
+
+### 🔥 Current Streak & Recent Activity
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/prathamsharda?theme=dark)
+
+</div>
+
+<div align="center">
+
+### 🚀 Detailed Stats
+![LeetCode](https://leetcode.card.workers.dev/prathamsharda?theme=dark&font=baloo&extension=activity)
+
+</div>
+
+<div align="center">
+
+### 📈 LeetCode Progress
+![LeetCode Badge](https://cp-logo.vercel.app/leetcode/prathamsharda)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%"/>
+</div>
+
+## Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamsharda8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrathamSharda)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prathamsharda/)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
+
+## Profile Stats
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=PrathamSharda&label=Profile%20Views&color=58A6FF&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/PrathamSharda?label=Followers&style=for-the-badge&color=58A6FF)
+![GitHub stars](https://img.shields.io/github/stars/PrathamSharda?label=Stars&style=for-the-badge&color=58A6FF)
+
+</div>
+
+<div align="center">
+  
+### Thanks for visiting my profile!
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+
+**"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+</div>
